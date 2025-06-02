@@ -14,11 +14,10 @@ We use **Logistic Regression**, a supervised machine learning algorithm, to pred
 
 ## 📌 Features
 
-- Data generation using `make_regression`
-- Data visualization using `matplotlib`
-- Model training using `LinearRegression` from `scikit-learn`
+- Data generation
+- Data visualization
+- Model training
 - Prediction and visualization of results
-- Model evaluation with MSE and R² Score
 - Custom prediction example
 
 ## 🚀 How to Run
